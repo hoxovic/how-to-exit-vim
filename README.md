@@ -1,6 +1,7 @@
 # How to exit vim
 
-```sh
-:!sudo shutdown -h NOW
-:!killall vim -9
-```
+- `:!shutdown -h NOW`
+- `:!reboot`
+- `:!killall vim -9`
+- `# Install Windows and wait for the BSOD`
+
